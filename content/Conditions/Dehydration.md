@@ -1,0 +1,2 @@
+
+Whenever you roll a d20, the total is subtracted by 1 for each level of dehydration you have. At the end of each day, or every 24 hours, if you did not consume at least three drinks or a drink with the hydrating property, you gain three levels of dehydration. When you gain your tenth level of dehydration, you die

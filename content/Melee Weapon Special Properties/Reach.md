@@ -1,0 +1,1 @@
+The range of the weapon is increased by 5 feet.

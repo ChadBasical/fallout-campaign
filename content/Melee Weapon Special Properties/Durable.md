@@ -1,0 +1,1 @@
+The weapon does not decay if you throw it or if you roll a 1 on the attack roll.

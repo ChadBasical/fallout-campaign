@@ -1,0 +1,1 @@
+A burning creature takes 1d10 fire damage at the start of their turns. They can spend 6 AP to put themselves out.

@@ -1,0 +1,2 @@
+
+Whenever you roll a d20, the total is subtracted by 1 for each level of exhaustion you have. When you gain your tenth level of exhaustion, you die. If you are a human, ghoul, or super mutant; you can remove one level of exhaustion after resting for at least 6 hours. If you are a robot or gen-2 synth; you can remove one level of exhaustion after resting for at least 2 hours

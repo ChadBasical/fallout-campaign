@@ -1,0 +1,11 @@
+Any item can have a level of decay, to a total of nine. Items can only gain levels of decay in three ways: If the item specifies it gains levels of decay in a unique way (like weapons and armor described below), if the item takes damage from a targeted attack, or if your GM rules that the item gains levels of decay from a unique situation or scenario. When an item gains its tenth level of decay; it breaks and ceases function. Each level of decay does not apply an effect to the item unless the item is a weapon, piece of armor, or it has special properties that specify.
+
+**Broken Items**
+When an item gains its tenth level of decay and breaks, it cannot be used or operated. It ceases function, cannot apply benefits, or gain any benefits from mods, upgrades, abilities, or perks. However, a broken item still retains its load and can be used as an improvised weapon.
+
+**Armor Decay**
+Unlike other items, armor cannot be the target of a targeted attack and instead gains levels of decay in unique ways. Armor gains a level of decay if you are wearing it and; you are the target of an attack that is a critical hit, or whenever you fall to 0 hit points. When any piece of armor has levels of decay, its AC and DT bonus are each decreased by a number equal to half the amount of levels of decay it has, rounded down. Note: Your AC cannot be lower than 10 from levels of decay, nor can your DT be lower than 0. (For example: Your character is wearing steel armor and it gains its fourth level of decay. Since steel armor gives you an AC of 13 and a DT of 2, your AC is instead 11 and your DT is 0. This is because you halve the levels of decay you have, and subtract that from your AC and DT total. In this case, half of 4 is 2, so you subtract 2 from your AC and DT until the armor is repaired.
+
+**Weapon Decay** 
+
+If you ever critically fail your attack roll with the weapon, it gains a level of decay. When a weapon has a level of decay, its attack rolls are decreased by a number equal to each level of decay it has. (For example: Alabaster attacks a super mutant with his sniper rifle. His sniper rifle currently has three levels of decay. He rolls a d20 and gets a 12, he adds his guns skill bonus which is 8 for a total of 20. However, since his sniper rifle has three levels of decay, he subtracts the total by 3 for a total of 17.)

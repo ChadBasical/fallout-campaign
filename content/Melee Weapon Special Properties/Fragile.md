@@ -1,0 +1,1 @@
+When this weapon gains a level of decay, it breaks and ceases function.

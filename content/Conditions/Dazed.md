@@ -1,0 +1,1 @@
+While you are dazed, your maximum AP is reduced by half (rounded down) and you do not recycle any unused AP at the start of your next turn.

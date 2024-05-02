@@ -1,0 +1,2 @@
+
+If you attack with a weapon that has this property with only one hand, you have disadvantage on the attack roll unless you spend 2 additional AP to attack. Alternatively, if your Strength ability score is greater than Strength requirement by at least 3, you can wield a melee weapon with the two handed property with one hand without having disadvantage on the attack roll.

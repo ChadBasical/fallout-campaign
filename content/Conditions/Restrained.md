@@ -1,0 +1,1 @@
+A restrained creature cannot move. When a restrained creature takes damage it cannot be subtracted from their stamina points.

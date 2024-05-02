@@ -1,0 +1,1 @@
+A blinded creature can't see and automatically fails any ability check that requires sight. Attack rolls against a blinded creature have advantage. A blinded creature can attack creatures with a blind attack if they are aware of them.

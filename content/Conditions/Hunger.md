@@ -1,0 +1,2 @@
+
+Whenever you roll a d20, the total is subtracted by 1 for each level of hunger you have. At the end of each day, or after 24 hours, if you did not consume at least one food, you gain one level of hunger. When you gain your tenth level of hunger, you die

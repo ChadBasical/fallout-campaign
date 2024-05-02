@@ -1,0 +1,1 @@
+If you block while holding this weapon, your DT increases by 2.

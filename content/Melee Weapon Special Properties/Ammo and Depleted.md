@@ -1,0 +1,2 @@
+
+Weapons with these properties require certain types of ammunition or fuel to operate at full capacity, each listed next to the property name. You can deal the damage listed in the Damage section of the weapon so long as you have rounds available in the weapon. If you attack with a weapon that has this property and has no rounds left, you deal the damage listed next to the Depleted property. To load rounds into the weapon, you must have the required ammunition and you must spend 6 AP to reload.
