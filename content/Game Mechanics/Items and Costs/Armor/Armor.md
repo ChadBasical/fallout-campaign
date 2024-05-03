@@ -27,7 +27,7 @@ The measurement of how much the armor protects you. Whenever you take damage to 
 Carry Load and Strength Requirement
 A representation of how heavy the armor is, and how much space it takes up. If you are wearing the armor, its load is halved. If you are wearing armor that you do not meet the Strength requirement for, you are slowed. Upgrade Slots. Armor can be customized with upgrades. The number of upgrades it can have is listed in the table below. Armor upgrades cannot be attached to all pieces of armor unless otherwise specified. (Example: a leather armor upgrade cannot be attached to steel armor) Additionally, ranks in an upgrade do not count against the armor’s slot total.
 
-![[Pasted image 20240503101855.png]]
+![[Armor Types.png]]
 
 
 ## Upgrades 
@@ -38,4 +38,4 @@ Upgrades can be crafted or purchased from certain vendors. When you have an armo
 
 You can either craft or purchase a rank to your upgrade which improves it. Each rank costs the base price of the upgrade. Each rank grants a new ability which adds on to the previous one. (Example: If you have a Rank 3 upgrade, it has the abilities of Rank 1, 2, and 3.) You cannot have a rank in an upgrade without first either purchasing or crafting the previous rank
 
-![[Pasted image 20240503102026.png]]
+![[Armor Upgrades.png]]
