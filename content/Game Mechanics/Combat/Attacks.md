@@ -41,13 +41,13 @@ The target has three permanent levels of exhaustion for a number of days equal t
 The target has disadvantage on any ability check, skill check, or attack roll that uses Strength or Agility that require two arms. This condition can be removed with a doctor’s bag. 
 
 ### Severed Arm/Hand
-The target loses a hand if their Luck score is equal to 6 or higher. The target loses an arm if their Luck score is equal to 5 or lower. If the target loses their hand: they go into [[shock]], gain two levels of [[bleeding]], and their Agility ability score is reduced by 2. If the target loses their arm: they go into shock, gain four levels of bleeding, and their Agility ability score is reduced by 2 and their Strength ability score is reduced by 2. (But can take the [[Adaptive Reflexes]] perk!) 
+The target loses a hand if their Luck score is equal to 6 or higher. The target loses an arm if their Luck score is equal to 5 or lower. If the target loses their hand: they go into [[Shock]], gain two levels of [[Bleeding]], and their Agility ability score is reduced by 2. If the target loses their arm: they go into shock, gain four levels of bleeding, and their Agility ability score is reduced by 2 and their Strength ability score is reduced by 2. (But can take the [[Adaptive Reflexes]] perk!) 
 
 ### Rattled
-The target becomes [[frightened]] for 3 turns. 
+The target becomes [[Frightened]] for 3 turns. 
 
 ### Sliced Jugular
-The target gains four levels of bleeding and gains two at the start of each of their turns until all levels of [[bleeding]] are healed. 
+The target gains four levels of bleeding and gains two at the start of each of their turns until all levels of [[Bleeding]] are healed. 
 
 ### Temporary Blindness
 The target becomes blinded for the next hour or until all of their hit points are healed. 
@@ -56,16 +56,16 @@ The target becomes blinded for the next hour or until all of their hit points ar
 The target gains one level of bleeding and gains one at the start of each of their turns until all levels of bleeding are healed. 
 
 ### Intense Agony
-The target goes into shock and is [[dazed]] for 2 turns. 
+The target goes into shock and is [[Dazed]] for 2 turns. 
 
 ### Severed Leg/Foot 
-The target loses a foot if their Luck score is equal to 6 or higher. The target loses their leg if their Luck score is equal to 5 or lower. If the target loses their foot: they go into [[shock]], gain two levels of[[ bleeding]], and their Agility ability score is reduced by 2. If the target loses their leg: they go into shock, gain four levels of bleeding, and their Agility ability score is reduced by 2 and their Strength ability score is reduced by 2. (But can take the [[Adaptive Reflexes]] perk!) Additionally, a creature who loses their foot or leg can only move a maximum of 20 feet on a turn. If the target loses all of their feet or legs, they fall prone and their only movement option is to crawl. 
+The target loses a foot if their Luck score is equal to 6 or higher. The target loses their leg if their Luck score is equal to 5 or lower. If the target loses their foot: they go into [[Shock]], gain two levels of[[Bleeding]], and their Agility ability score is reduced by 2. If the target loses their leg: they go into shock, gain four levels of bleeding, and their Agility ability score is reduced by 2 and their Strength ability score is reduced by 2. (But can take the [[Adaptive Reflexes]] perk!) Additionally, a creature who loses their foot or leg can only move a maximum of 20 feet on a turn. If the target loses all of their feet or legs, they fall prone and their only movement option is to crawl. 
 
 ### Gut Wallop
-The target becomes [[dazed]] for the next 2 turns. 
+The target becomes [[Dazed]] for the next 2 turns. 
 
 ### Painful Collapse
-The target falls [[prone]] and becomes [[dazed ]]until the end of their next turn. 
+The target falls [[Prone]] and becomes [[Dazed]]until the end of their next turn. 
 
 ## Leg Cripple
 The target can only move a maximum of 20 feet on a turn until all their hit points are healed.
