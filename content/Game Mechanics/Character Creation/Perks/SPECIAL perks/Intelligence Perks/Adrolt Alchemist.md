@@ -1,0 +1,3 @@
+Requirements: Intelligence 5
+
+You understand the complex formulae of chems and can now alter them to change their effects. Whenever you craft a Chem, you use one less material listed in the crafting materials to a minimum of one. You can also make any Chem potent or diluted so long as you use one of the materials listed in the crafting materials. A potent Chem’s effects are doubled, however the addiction DC is increased by 2. A diluted Chem’s effects are halved, however you cannot become addicted to a diluted Chem.

@@ -1,0 +1,3 @@
+Requirements: Human, Ghoul, or Super Mutant
+
+Whenever you take damage from attacks made from animals or insects, your DT increases by 2. Additionally, whenever you consume the meat of an animal or insect that has died within the past 15 minutes, you heal a number of hit points equal to your healing rate, once you heal in this way you cannot heal from it again until you rest for at least 8 hours. If you consume prepared animal or insect meat, you heal a number of stamina points equal to your level.

@@ -1,0 +1,3 @@
+Requirements: Luck 6
+
+Whenever you craft or repair an item, you can randomly choose one of the required materials, the required material is reduced by an amount equal to your Luck ability modifier to a minimum of 1. The required material is also replaced by a randomly chosen junk material. Additionally, whenever you consume a food, drink, or chem, you can choose to roll a Luck ability check with the DC equal to 15, if you succeed; one random food, drink, or chem property is added to the consumed food, drink, or chem.

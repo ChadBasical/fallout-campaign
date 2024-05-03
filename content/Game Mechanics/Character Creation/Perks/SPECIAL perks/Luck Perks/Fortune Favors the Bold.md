@@ -1,0 +1,3 @@
+Requirements: Luck 9
+
+Whenever you or any other player characters flip your Karma Cap to gain advantage or a reroll on an ability check, skill check, or attack roll, physically flick and flip your Karma Cap. If it lands facing up then it stays facing up. Repeat: You can take this perk up to a maximum of once. If any other player character takes this perk, and if your Karma Cap lands face down; you can physically flip a number of times equal to the amount of player characters who have taken this perk past the first.

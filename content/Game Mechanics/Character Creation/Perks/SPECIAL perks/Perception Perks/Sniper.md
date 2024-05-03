@@ -1,0 +1,3 @@
+Requirements: Perception 9
+
+Whenever you spend action points to make an attack roll with a two-handed ranged weapon, you can spend 1 additional action point to add 2 to the result of the roll. You can spend up to 3 additional action points to add an additional 2 to the attack per action point used. Additionally, if you make a targeted attack roll to the head with a rifle that has the Scope mod, you critically hit on the attack roll, and you deal damage to the target’s hit points; the target dies so long as it can’t live without its head, or isn’t wearing a power armor helmet.

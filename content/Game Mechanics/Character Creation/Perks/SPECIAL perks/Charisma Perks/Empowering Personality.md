@@ -1,0 +1,3 @@
+Requirements: Charisma 8
+
+You lead by example, whenever another creature within 30 feet of you deals damage from an attack roll; you can flip one of your Karma Caps to increase the damage by a bonus equal to double your Charisma ability modifier. Additionally, whenever another creature takes damage to their hit points, you can flip one of your Karma Caps to reduce this damage by an amount equal to double your Charisma ability modifier.

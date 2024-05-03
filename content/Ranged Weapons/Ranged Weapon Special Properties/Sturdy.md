@@ -1,1 +1,0 @@
-A ranged weapon with this property ignores the negative effects of the first 2 levels of [[decay]]. 

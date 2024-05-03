@@ -1,0 +1,3 @@
+Requirements: Charisma 9
+
+Whenever another player character flips their Karma Cap back over when they roll a 1 on a d20 or if they are hit with a critical hit, you can also flip over your Karma Cap. Repeat: You can take this perk up to a maximum of twice, when you take it again; whenever another player character flips their Karma Cap back over when they roll a 1 on a d20 or if they are hit with a critical hit, you can choose for another player character to flip over their Karma Cap.

@@ -1,0 +1,3 @@
+Requirements: Charisma 5
+
+You’re good at causing a scene! You can spend 3 action points on your turn to taunt a target creature. Roll a Charisma check, that creature must succeed a Charisma ability check with the DC being equal to your check total. If they fail; the next attack roll against the taunted creature that isn’t from you has advantage. Additionally on their next turn they can only target you with their attacks. If you try to taunt a creature you have previously taunted, they have advantage on their Charisma check. You cannot taunt a creature more than twice.

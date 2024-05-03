@@ -1,0 +1,3 @@
+Requirements: Human, Ghoul, or Super Mutant
+
+You dine on the most taboo of meats. Whenever you consume the flesh of a human, ghoul, or super mutant that has died within the past 15 minutes, you heal a number of hit points equal to double your healing rate, once you heal in this way you cannot heal from it again until you rest for at least 8 hours. If you consume prepared human or ghoul flesh, you heal a number of stamina points equal to your level.

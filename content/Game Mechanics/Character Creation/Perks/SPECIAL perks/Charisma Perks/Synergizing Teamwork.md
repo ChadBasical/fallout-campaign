@@ -1,0 +1,3 @@
+Requirements: Charisma 6
+
+Whenever another party member fails an attack roll, you can flip one of your Karma Caps to add a bonus equal to your Charisma ability modifier. If the attack hits, the next creature to make an attack roll for the first time on their turn gains a bonus equal to your Charisma ability modifier plus 1. This ability continues to trigger until a party member misses their first attack roll on their turn.

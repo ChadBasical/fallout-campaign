@@ -1,1 +1,0 @@
-A ranged weapon with this property does not gain levels of [[decay]] when you roll a 1 on the attack roll.

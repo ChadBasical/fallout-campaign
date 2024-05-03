@@ -1,0 +1,3 @@
+Requirements: Perception 8
+
+Whenever you deal enough damage to bring another creature to 0 hit points from an attack roll made with a weapon that deals laser, plasma, or electricity damage; you can choose for that creature to explode with a corona of energy. Each creature within 10 feet of that creature takes damage equal to the amount you dealt. Repeat: You can take this perk up to a maximum of once.
