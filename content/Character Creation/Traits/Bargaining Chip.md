@@ -1,0 +1,3 @@
+You’ve got a nose for opportunity and know how to strike bargains. Whenever you sell an item, you can use your Discount ability to gain a bonus of caps equal to double your Barter skill modifier. However, you sell all your items for 10% less than their listed value. 
+
+Wild Wasteland: Whenever you sell an item, you can use your Discount ability to gain a bonus of caps equal to triple your Barter skill modifier. However, you sell all your items for 20% less than their listed value.

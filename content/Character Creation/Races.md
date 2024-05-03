@@ -8,11 +8,12 @@ The description of each race includes racial traits that are common to members o
   
   The age entry notes the age when a member of the race is considered an adult, as well as the race’s expected lifespan. This information can help you decide how old your character is at the start of the game. You can choose any age for your character, which could provide an explanation for some of your ability scores. 
   
-## size##
+## Size 
+
 
 Characters of most races are Medium, a size category including creatures that are roughly 4 to 8 feet tall. Members of a few races are Large (between 8 and 12 feet tall), which means that certain rules of the game affect them differently. 
 
-## Variant##
+## Variant
 
 Some races have variants. You can choose the variant version of the race at 1st level when creating your character and you gain any new traits associated with it. If there are two traits with the same name, the variant version takes precedence.
 
@@ -135,3 +136,112 @@ While oftentimes their name suggests a gender role, “Mister Handy” or “Mis
 
 **Limbs and Targeted Attacks**
 
+Handy’s have a less human shape to them than other robots, floating off the ground with three appendages and three eyes attached to a large round core. You have three arms, three eyes, and can have up to three hands if you choose to have three Grippers in the Incredible Multi-Talented Appliance section below. You do not have a head, groin, or legs that can be targeted by targeted attacks or severed. Instead; targeted attacks to your eyes cost 2 less AP and creatures can target your jet engine. The jet engine functions exactly the same as a targeted attack to the legs, except the attack costs 2 more AP. If your jet engine is severed, you fall prone and cannot move until it is reattached
+
+**Fuel
+
+You require fuel to continue to operate. Every week, 7 days, or 168 hours; you can spend 6 AP to fill your tank with a gallon of fuel or six oil junk items which are consumed upon use. If you fail to consume a gallon of fuel after the week, you must succeed a DC 12 Endurance check for each hour past 168. For each successful check, the DC increases by 2. On a fail, you become unconscious until another creature fills your tank with fuel. Alternatively, you can load a fusion core into your chassis. If you do, you can operate for 30 days without requiring fuel
+
+**Jet Engine
+
+You hover a few feet off the ground while active and moving. You don't trigger any floor based traps or activated effects. However, if you are knocked prone, become stunned, or fall unconscious; you fall to the ground.
+
+#### **Incredible Multi-Talented Appliance!
+
+Handy’s are built with three special tools that are attached and built into three of their arms. These tools and weapons can be modified like any other weapon, only require one hand to use, and do not cost AP to equip or stow. Additionally, they cannot be detached from you unless the arm that the tool or weapon is attached to is severed. Choose one tool or weapon from the following list that is attached to your arm.
+
+**Buzz Saw
+
+A mechanical saw housed in a metal frame used to cut wood, food, bodies, or debris. Melee Weapon. 12 5 Action Points. 1d8 slashing. Critical Hit: 20, x2, applies [[Bleeding]]. Special Properties: [[Cleave]], [[Durable]].
+
+**Drill
+
+This drill has interchanging bits used for screws, nuts, bolts, and pilot holes. Melee Weapon. 6 Action Points. 1d8 slashing. Critical Hit: 20, 2d8 slashing. Special Properties: [[Durable]], [[Mangle]].
+
+**Gripper
+
+The Gripper is two finger-like appendages that can grab, twist, operate, use weapons, and hold items. Operating at similar efficiency to a human hand. If you do not have at least two of these tools, you effectively only have one hand.
+
+**Torch
+
+This kitchen tool emits a flame with an adjustable nozzle for cooking, flambéing, taking care of pesky bug nests, or lighting candles. Ranged Weapon, 10 ft. line. 5 Action Points. 1d10 fire. Ammo: fuel, 5 rounds. Special Properties: [[Area of Effect]], [[Durable]], [[Incendiary]]
+
+### Protectron
+
+Protectrons have a glass dome on top of their heads that acts as an ocular lens that allows the Protectron to scan its surroundings and act accordingly. Although Protectrons are rather slow and ponderous, their upper body can swivel up to about 90 degrees to either side before having to step into a different position, which means that they can easily keep track of their target.
+
+Limbs and Targeted Attacks
+Protectrons, while still a robotic oddity, have a human-like shape and appendages. You have two arms, two legs, two hands, two feet, a head, and a torso. However, you do not have eyes or a groin that can be targeted by normal targeted attacks or severed. 
+
+Reinforced Plating
+Your DT increases by 1 even if you aren’t wearing armor. 
+
+Slow
+Protectrons can only spend a maximum of 6 AP on movement during their turns. 
+
+Protect and Serve
+Protectrons are built with a special tool that is attached and built into one of their arms. These tools and weapons can be modified like any other weapon, only require one hand to use, and do not cost AP to equip or stow. Additionally, they cannot be detached from you unless the arm that the tool or weapon is attached to is severed. Choose one tool or weapon from the following list that is attached to your arm. 
+
+Taser
+Melee Weapon. 4 action points. 2d8 electricity damage. Critical Hit: 20, x2 applies dazed. Special Properties: [[Durable]]
+
+Laser
+Ranged Weapon, Range: x10/x20. 4 Action Points. 1d8 laser. Critical Hit: 20, x2, applies burning. Ammo: Fusion cell, 30 rounds. Special Properties: [[Durable]]. [[Semi-Automatic]]
+
+Defibrillator
+Unarmed Attack. 6 AP. 2d8 electricity damage. Critical Hit: 20, 1d8. Special Properties:[[ Durable]], [[Revitalizing]].
+
+Cryo Spray
+Ranged Weapon, 20 ft. cone. 5 AP. 2d4 cold. Ammo: Cryo cell, 3 rounds. Special Properties: [[Area of Effect]], [[Durable]], [[Freezing]], [[Slow]].
+
+Nail Gun
+Ranged Weapon, Range: x3/x10. 6 AP. 1 piercing per attack. Critical Hit: 20, 10 piercing. Ammo: Nails, 90 rounds. Special Properties: [[Automatic]]: 2. [[Durable]]
+
+### Robobrain
+
+The Robobrain was designed from the ground up as a multirole platform for use by military and civilian clients. They are more flexible and powerful than robots due to the fact that their central control and processing unit is an actual brain, rather than an artificial facsimile. Coupled with a robust, all-terrain tracked chassis and powerful armaments, the Robobrain was on the forefront of a new revolution in combat robotics.
+
+Limbs and Targeted Attacks
+Robobrains have a humanoid shape and appendages. You have two arms, two hands, a head, and a torso. However, you do not have legs, feet, eyes, or a groin that can be targeted by normal targeted attacks or severed. Instead, creatures can target your all terrain rollers. The rollers function exactly the same as a targeted attack to the legs except they cannot be severed.
+
+All Terrain Rollers
+You do not have to spend extra AP to move through difficult terrain. 
+
+NeuroTransmitters
+You are vulnerable to electricity damage. Additionally, when you take damage from a targeted attack to the head; you gain two conditions instead of one.
+
+
+## Super Mutant
+
+Super mutants are genetically enhanced humans who were created to be superior in every way to a typical human. Originally planned to be super soldiers, the first Super mutants were created by exposure to the Forced Evolutionary Virus II from the vats of the Mariposa Military Base in California. Other strains of Super mutants are found throughout the wasteland created from various sources, often varying in size and intelligence. Regardless of their origin, all Super mutants were created by way of the Forced Evolutionary Virus having mutated from humans. With the creation of the FEV-II strain, scientists were able to create powerful super-soldiers, exhibiting superior physical prowess, resistance to combat damage, aging, and disease, as well as a negligible loss of intelligence and inevitable infertility. 
+
+People who were turned into mutants via would have their skin turn a shade of green, yellow, or olive with their entire body growing huge with more muscle mass being added by the Virus. But those who were turned into mutants had only fleeting memories of their human lives. They could not breed, as the FEV turned them sterile, thus limiting the generations of mutants. A strain of mutants known as night-kin had their skin change to a gray-purple color after long exposure to stealth boys
+
+**Age**
+Super mutants are nearly immortal, their lifespan is unknown. Some have lived for hundreds of years. 
+
+**Size**
+Super mutants rarely vary in height and build, but they can range from 7 to 9 feet in height. Your size is Medium. Due to the specifics required for it, you cannot use power armor unless it is specifically modded to your body type. 
+
+**Evolution**
+You cannot gain levels of radiation and you are immune to radiation damage. Additionally, you gain no Irradiated levels from consuming food or water. 
+
+**Superior Strength**
+Due to your increased mass in muscle, your Strength score increases by 1 and cannot be lower than 6. Additionally your Carry Load is increased by 40. 
+
+**Mass Exertion**
+The amount of required food and water you need each day with gaining levels of hunger and dehydration is doubled. 
+
+**Bulky**
+Super mutants have many advantages but precision does not come easy, whenever your weapons or armor would gain a level of decay, they gain an additional one.
+
+
+### **Variant Super Mutant Traits**
+
+these variant abilities which replaces the Superior Strength trait. 
+
+*Defective Strain*
+Due to the various types of experimentation performed on many humans, when you became a Super mutant; your body was empowered but your mind weakened. Your Strength and Endurance ability scores both increase by 2 and your Carry Load is increased by 40. However, your Intelligence ability score is reduced by 2 and cannot be raised higher than a 3. 
+
+*Nightkin*
+Nightkin once served in the Master’s army, but now wanders the wasteland. They very often suffer from severe psychological damage, caused by prolonged Stealth Boy use. Your Strength score increases by 1 and cannot be lower than 6. Additionally your Carry Load is increased by 40. You also gain an ability called Stealth field. You can spend 3 action points on your turn to turn you and everything you are carrying invisible. This ability lasts for 1 minute. Each time you use this ability after the first use each day, your Perception ability score temporarily decreases by 1 for 24 hours (to a minimum of 1). Your Perception ability score being decreased in this way does not limit you in using or choosing perks that have a Perception ability score requirement. (For quick reference, your Perception score affects your Breach, Energy Weapons, Explosive, and Medicine skill checks. As well as your Combat Sequence bonus and range with weapons).

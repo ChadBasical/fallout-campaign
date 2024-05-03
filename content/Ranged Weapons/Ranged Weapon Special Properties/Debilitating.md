@@ -1,0 +1,1 @@
+When you deal damage to a creature's hit points from a targeted attack with a weapon that has this property, you roll twice on the [[conditions]] table and apply both conditions. If you roll the same condition twice, the effects stack. 

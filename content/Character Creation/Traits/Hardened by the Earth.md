@@ -1,0 +1,3 @@
+You’ve known long days and hard work, you have advantage whenever you roll an Endurance check to resist a level of Hunger or Fatigue. However, you fall unconscious if you reach 8 levels of Hunger or Fatigue instead of 10. 
+
+Wild Wasteland: In addition to the traits effects; whenever your hit points or stamina points increase from leveling up, you gain an extra point in each. However, the negative effects from levels of Hunger and Fatigue are doubled.

@@ -1,0 +1,1 @@
+When you deal damage to a target creature’s hit points with a weapon that has this property, they gain the [[Bleeding ]]condition. 

@@ -1,0 +1,1 @@
+The weapon gains a level of decay when you roll a 3 or lower on an attack roll. 

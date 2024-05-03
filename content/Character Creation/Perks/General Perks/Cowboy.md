@@ -1,0 +1,1 @@
+Whenever you spend AP to draw a lever action rifle, cowboy repeater, or revolver, the AP cost is reduced to 1. Additionally, if you attack and hit a surprised creature with a lever action rifle, cowboy repeater, or revolver; the attack critically hits.

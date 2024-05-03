@@ -1,0 +1,3 @@
+Requirement: Missing Hand, Arm, Foot, or Leg. 
+
+You’ve learned to endure and overcome your disability. If you lost your foot or leg, you are no longer limited to moving only 20 feet on a turn. If you lost your hand or foot: you gain 3 points which you can use to increase any of your ability scores by the amount used. If you lost your arm or leg: you gain 5 points which you can use to increase any of your ability scores by the amount used. Repeat: You can take this perk as many times as you have missing arms or legs.

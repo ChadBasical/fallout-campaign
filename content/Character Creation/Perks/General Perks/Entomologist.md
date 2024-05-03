@@ -1,0 +1,1 @@
+You know the anatomy of various instincts. Whenever you roll damage from an attack roll against the hit points of a creature with the insect creature type, their DT is not subtracted from your damage total. (Insects include Ants, Bloatflies, Cazador, Radscorpion, etc.)

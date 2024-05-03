@@ -1,0 +1,1 @@
+A weapon with this property gains a level of decay every five times you reload it instead of ten. 

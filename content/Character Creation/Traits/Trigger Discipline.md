@@ -1,0 +1,1 @@
+Whenever you make a targeted attack roll with a ranged weapon, the additional cost is reduced by 1 AP. However, your combat sequence bonus is reduced by 2. Wild Wasteland: Whenever you make a targeted attack roll with a ranged weapon, the additional cost is reduced by 2 AP. However, your combat sequence bonus is reduced by 5.

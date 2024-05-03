@@ -1,0 +1,2 @@
+ If you attack with a ranged weapon that has this property with only one hand, you must spend an additional 2 AP. Otherwise you have disadvantage on the attack roll and after you attack you fall prone. Alternatively, if your Strength ability score is greater than Strength requirement by at least 3, you can wield a ranged weapon with the two handed property with one hand without having disadvantage on the attack roll or falling prone. 
+ 

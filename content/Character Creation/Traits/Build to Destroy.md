@@ -1,0 +1,1 @@
+The flamer that burns twice as bright burns half as long. Any damage you deal with a weapon is increased by 1. However, whenever you roll a 1 on an attack roll with a weapon; the weapon gains two levels of decay instead of one. Wild Wasteland: Any damage you deal with a weapon is increased by 2. However, whenever you attack with a weapon, it gains [[Breakable]]

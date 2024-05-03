@@ -1,0 +1,4 @@
+
+You have more innate abilities than most, so you have not spent as much time honing your skills. Your Carry Load increases by 10, your Combat Sequence bonus increases by 1, you can use Discount an additional time per rest, your Party Nerve increases by 1, and you have an additional Karma Cap. However, you decrease all your skill check bonuses by 3. 
+
+Wild Wasteland: Your Carry Load increases by 20, your Combat Sequence bonus increases by 2, you can use Discount two additional times per rest, your Party Nerve increases by 2, and you have two additional Karma Caps. However, you decrease all your skill check bonuses by 6.

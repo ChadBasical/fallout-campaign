@@ -1,0 +1,1 @@
+You gain a bonus to your maximum stamina points equal to your level. However your maximum hit points are reduced by a number equal to your level. Wild Wasteland: In addition to this trait’s effects; you gain a bonus to your maximum stamina points equal to your level. However your maximum hit points are reduced by a number equal to your level.

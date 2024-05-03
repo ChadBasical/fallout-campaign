@@ -1,0 +1,1 @@
+When you make a targeted attack roll with a weapon that has this property, you may choose the limb condition instead of rolling for it. 

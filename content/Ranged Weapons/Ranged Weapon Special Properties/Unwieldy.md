@@ -1,0 +1,1 @@
+If you attack with a ranged weapon that has this property with only one hand; you have disadvantage on the attack roll.

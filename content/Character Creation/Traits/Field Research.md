@@ -1,0 +1,4 @@
+
+Your study of other creatures lends you to better fight them. Whenever you deal damage from an attack to a creature whose type you have fought before, the damage is increased by 2. However, whenever you deal damage from an attack to a creature whose type you haven’t yet fought before, the damage is subtracted by 2. 
+
+Wild Wasteland: In addition to this trait's effects; whenever you rest and gain a bonus of XP after having rolled combat sequence with a creature you have never rolled combat sequence with before, you gain an additional 20% bonus of XP. However, whenever you rest and gain XP after having rolled combat sequence with a creature you have rolled combat sequence with before, you gain 10% less XP.

@@ -1,0 +1,3 @@
+Early to bed, early to rise, makes a ghoul stealthy, wealthy, and want to kill those guys! You can roll a d4 and add the number rolled to any ability or skill check you make from the hours of 6am to 12pm. However, you gain an additional level of fatigue whenever you fail an Endurance check to resist sleep. 
+
+Wild Wasteland, true to the original: You have a +2 to all skills in the morning (6am to 12pm), but a -1 during the night (6pm to 6am).

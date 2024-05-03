@@ -1,0 +1,4 @@
+
+You're Good Natured at heart, more prone to solving problems with your mind than violence. Regardless of your Charisma ability score, you are considered to have an additional two points in your Charisma ability score for any perk requirement. (For example, if your Charisma ability score is equal to 5, with this trait it would be considered a 7 for perk requirements). However, regardless of your Agility and Strength ability scores, you are considered to have two points reduced for any Agility or Strength perk requirement. 
+
+Wild Wasteland: Regardless of your Charisma ability score, you are considered to have a 10 in your Charisma ability score for any perk requirement. However, regardless of your Agility and Strength ability scores, you are considered to have a 4 for any Agility or Strength perk requirement.

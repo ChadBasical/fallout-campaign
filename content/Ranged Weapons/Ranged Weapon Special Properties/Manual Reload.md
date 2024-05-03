@@ -1,0 +1,1 @@
+When you reload a weapon with this property, you must spend 1 AP to load one round into the weapon instead of spending 6 AP. 

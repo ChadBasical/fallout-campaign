@@ -1,0 +1,3 @@
+You know how to prepare others for the worst, and to inspire the soul. Whenever you roll combat sequence, each other player character gains advantage on their first attack roll they make on their turn. However, if any player characters critically hit on their first attack after rolling combat sequence, they do not deal any extra damage. 
+
+Wild Wasteland: Whenever you roll combat sequence, each other player character gains advantage on their first two attack rolls they make on their turn. However, if any player characters critically hit on their first or second attack after rolling combat sequence, they do not deal any extra damage.

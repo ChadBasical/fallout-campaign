@@ -1,0 +1,3 @@
+You're accustomed to the rush of chemical enhancements or the electrodes of programs. If you are addicted, you lose the condition whenever you rest for at least 8 hours. However, you have disadvantage on any Endurance check to resist becoming addicted. 
+
+Wild Wasteland: If you are addicted, you lose the condition after 1 hour. However, you always become addicted after using a Chem or Robot Overclock Program.

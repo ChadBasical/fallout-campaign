@@ -1,0 +1,4 @@
+
+You’ve traveled far and wide and know how best to handle the open road. When you and any other player characters travel at a fast pace, you can move an additional two miles per hour. However, if you do, at the end of each hour you and each other player character must succeed a DC 12 Endurance check or gain a level of fatigue. The DC increases by 2 for any player character who succeeds this check. 
+
+Wild Wasteland: When you and any other player characters travel at a fast pace, you can move an additional five miles per hour. However, if you do, at the end of each hour you and each other player character gains a level of fatigue

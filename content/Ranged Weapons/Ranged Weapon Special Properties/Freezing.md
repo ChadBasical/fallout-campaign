@@ -1,0 +1,1 @@
+When a creature takes damage from a weapon with this property, they gain the [[Slowed]] condition until the end of their next turn. 

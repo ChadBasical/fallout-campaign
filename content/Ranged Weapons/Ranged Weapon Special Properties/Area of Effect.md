@@ -1,0 +1,1 @@
+When you deal damage to a creature with a weapon that has this property, the energy leaps to another nearby creature. Each creature within 20 feet of the previously damaged creature takes the same damage. The energy leaps so long as there is a new target within 20 feet of the previous one. 

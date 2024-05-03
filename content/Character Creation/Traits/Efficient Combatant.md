@@ -1,0 +1,3 @@
+Due to your training, you're more reliable with a weapon. Whenever you make an attack roll and the result is a 1, you add your modifier and no longer automatically miss. However, your Karma Cap does not flip back over when you roll a 1 on attack rolls. 
+
+Wild Wasteland: Whenever you make an attack roll and the result is a 1, you can re-roll the attack roll but must take the new result. However, whenever you make an attack roll and the result is a critical hit, you automatically hit but deal no extra damage
