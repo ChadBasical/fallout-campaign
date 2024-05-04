@@ -23,3 +23,17 @@ A representation of how heavy the weapon is, and how much space it takes up. If 
 
 **Decay**
 All melee weapons gain a level of [[Decay]] when you roll a 1 on an attack roll or if you throw a melee weapon that doesn't have the thrown property.
+
+
+## [[Melee Weapon Special Properties]]
+
+## [[Bladed Melee Weapons]]
+
+## [[Blunt Melee Weapons]]
+
+## [[Mechanical Melee Weapons]]
+
+## [[Unarmed Weapons]]
+
+
+

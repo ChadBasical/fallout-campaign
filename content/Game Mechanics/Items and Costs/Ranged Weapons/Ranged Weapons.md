@@ -24,3 +24,15 @@ A representation of how heavy the weapon is, the amount of Strength you need to 
 
 **Decay**
 All ranged weapons gain a level of [[Decay]] when you reload it for the tenth time and when you roll a 1 on an attack roll unless otherwise specified.
+
+## [[Handguns]]
+
+## [[Submachine Guns]]
+
+## [[Rifles]]
+
+## [[Shotguns]]
+
+## [[Big Guns]]
+
+## [[Energy Weapons]]

@@ -45,3 +45,17 @@ Unfortunately, Power Armor has one weakness; its fusion core is exposed to allow
 If you spend more than 15 AP on a turn while you wear Power Armor, it overheats until the end of your next turn. When Power Armor first becomes overheated, or is overheated at the start of your turn; the armor must spend additional energy to cool itself and the fusion core, draining its energy significantly, losing 30 minutes of its allotted time. If a fusion core only has 30 minutes of its allotted time, and becomes overheated, the Power Armor ejects the user and ceases function. You can choose to override the automatic cooling so as to not lose any allotted time. However, if you do, the fusion core explodes at the end of your next turn. This explosion has a small radius of 20 feet and a large radius of 50 feet. All creatures and objects in the short radius take 20d10 explosive damage, or half as much in the large radius. The Power Armor is destroyed, and if its user was still inside; they incinerate into carbon. Additionally, the area of the explosion becomes a Level 5 Irradiated Zone, decreasing in its level by 1 every 24 hours.
 
 ### Power Armor Types and Statistics
+
+![[Power Armor Types and Statistics.png]]
+
+
+### Power Armor Upgrades
+
+Upgrades can be crafted or purchased from certain vendors. When you have an armor upgrade you can spend 15 minutes to attach it to your armor, or spend 15 minutes removing it. 
+
+Ranks
+You can either craft or purchase a rank to your upgrade which improves it. Each rank costs the base price of the upgrade. Each rank grants a new ability which adds on to the previous one. IE: If you have a Rank 3 upgrade, it has the abilities of Rank 1, 2, and 3.
+
+![[Power Armor Upgrades 1.png]]![[Power Armor Upgrades 2.png]]
+![[Power Armor Upgrades 3.png]]
+![[Power Armor Upgrades 4.png]]![[Power Armor Upgrades 5.png]]

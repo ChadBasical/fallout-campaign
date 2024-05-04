@@ -1,0 +1,2 @@
+The blast from a shotgun is heard all too often in the wasteland. Simple weapons used for dispatching enemies quickly, renown for destructive power. Range isn’t on the side of a shotgun, neither is speed, nor precision. All of which trades for sheer damage. 
+![[Pasted image 20240503141151.png]]
