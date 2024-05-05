@@ -1,4 +1,4 @@
-Armor
+## Armor
 
 | Type            | Repair DC | Repair Material                               | Repair Time | Craft DC | Crafting Material                  | Crafting time |
 | --------------- | --------- | --------------------------------------------- | ----------- | -------- | ---------------------------------- | ------------- |
@@ -9,7 +9,7 @@ Armor
 | Ballistic Weave | +10       | x2 ballistic fiber                            | 10 min      | +20      | x15 ballistic fiber                | 1 hour        |
 | Steel           | +5        | x2 steel and x1 leather                       | 10 min      | +10      | x20 steel, x10 screws, x10 leather | 6 hours       |
 
-Armor Upgrades
+## Armor Upgrades
  
 | Type         | Crafting DC                                                                       | Crafting Materials                                                                                                                                                                                                                                                                                                                     | Crafting Time |
 | ------------ | --------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
@@ -22,7 +22,7 @@ Armor Upgrades
 | Pocketed     | Rank 1: +4<br>Rank 2: +8<br>Rank 3: +12                                           | Rank 1: x4 cloth, x5 leather, x3 adhesive.<br>Rank 1: x6 cloth, x8 leather, x3 adhesive.<br>Rank 1: x8 cloth, x10 leather, x4 adhesive                                                                                                                                                                                                 | 1 hour        |
 | Reinforced   | Rank 1: +12<br>Rank 2: +17<br>Rank 3: +22                                         | Rank 1: x5 of each material required to craft the type armor you are<br>modifying, x5 adhesive, x5 screws.<br>Rank 2: x5 of each material required to craft the type armor you are<br>modifying, x5 adhesive, x5 screws.<br>Rank 3: x8 of each material required to craft the type armor you are<br>modifying, x8 adhesive, x8 screws. | 1 hour        |
 | Hardened     | Rank 1: +14<br>Rank 2: +19<br>Rank 3: +25                                         | Rank 1: x6 of each material required to craft the type armor you are<br>modifying, x6 adhesive, x6 screws.<br>Rank 2: x6 of each material required to craft the type armor you are<br>modifying, x6 adhesive, x6 screws.<br>Rank 3: x6 of each material required to craft the type armor you are<br>modifying, x6 adhesive, x6 screws. | 1 hour        |
-**Power Armor** 
+## Power Armor
 Successfully crafting fully functioning power armor is an extremely difficult task. Each day you spend crafting power armor, you must succeed the Crafting skill check (unless your crafting bonus is equal to the DC) and you must spend the required crafting materials each day. If you ever fail this crafting check, the entire armor build is failed and you must restart. If another creature assists you in crafting power armor, the crafting time is still reduced however you still require the same amount of materials. Instead of using the materials each day, multiple all the required materials by the original crafting time.
 
 | Type                   | Crafting DC | Crafting Materials                                                                                                                                   | Crafting Time |
@@ -34,7 +34,7 @@ Successfully crafting fully functioning power armor is an extremely difficult ta
 | X-01                   | +30         | x1 power armor chassis, x8 aluminum, x1 circuitry, x4 gear, x1 nuclear<br>material, x5 oil, x10 plastic, x3 rubber, x9 screws, x2 spring, x14 steel. | 25 days       |
 | X-02                   | +32         | x1 power armor chassis, x8 aluminum, x1 circuitry, x4 gear, x1 nuclear<br>material, x5 oil, x10 plastic, x3 rubber, x9 screws, x2 spring, x14 steel. | 30 days       |
 
-**Power Armor Upgrades**
+## Power Armor Upgrades
 
 | Type                 | Crafting DC                                                                                                                  | Crafting Materials                                                                                                                                                                                                                              | Crafting Time |
 | -------------------- | ---------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
@@ -56,4 +56,130 @@ Successfully crafting fully functioning power armor is an extremely difficult ta
 | Calibrated Shocks    | Rank 1: Crafting +12<br>and Science +6<br>Rank 2: Crafting +18<br>and Science +9<br>Rank 3: Crafting +24<br>and Science +12  | Rank 1: x4 adhesive, x7 aluminum, x5 fiberglass.<br>Rank 2: x4 adhesive, x7 aluminum, x5 fiberglass.<br>Rank 3: x4 adhesive, x7 aluminum, x5 fiberglass.                                                                                        | 3 hours       |
 | Overclock Hydrolics  | Rank 1: +12<br>Rank 2: +18<br>Rank 3: +24                                                                                    | Rank 1: x7 adhesive, x9 aluminum, x5 circuitry, x 6 oil, x5 nuclear material.<br>Rank 2: x7 adhesive, x9 aluminum, x5 circuitry, x 6 oil, x5 nuclear material.<br>Rank 3: x7 adhesive, x9 aluminum, x5 circuitry, x 6 oil, x5 nuclear material. | 3 hours       |
 | Super Mutant Fitting | +15                                                                                                                          |                                                                                                                                                                                                                                                 |               |
+
+## Bladed Melee Weapons
+
+![[Pasted image 20240505100409.png]]
+![[Pasted image 20240505100528.png]]
+
+## Blunt Melee Weapons
+
+![[Pasted image 20240505100553.png]]
+
+![[Pasted image 20240505100623.png]]
+
+## Mechanical Melee Weapons
+
+![[Pasted image 20240505100715.png]]
+
+
+## Unarmed Armor Upgrades
+
+![[Pasted image 20240505100744.png]]
+![[Pasted image 20240505100755.png]]
+
+## Melee Weapon Mods
+![[Pasted image 20240505100840.png]]
+
+## Gunpowder
+
+![[Pasted image 20240505100906.png]]
+
+## Ammunition
+
+![[Pasted image 20240505100928.png]]
+![[Pasted image 20240505100942.png]]
+
+## Energy Ammunition
+
+![[Pasted image 20240505101007.png]]
+
+## Special Ammunition
+
+The table below lists the additional crafting materials needed to craft the special ammunition for a type of ammunition. Additionally, the crafting DC increases by an amount equal to the Crafting DC listed on the special ammunition table below. For example; crafting six 308 rounds requires x5 gunpowder, x8 lead, and x12 steel. To craft armor piercing .308 rounds, add the amount listed in the table to the .308 crafting materials, and the crafting DC. Thus, to craft six armor piercing .308 rounds requires x5 gunpowder, x16 lead, x20 steel with a crafting DC of +12
+
+![[Pasted image 20240505101048.png]]
+
+## Special Energy Weapons Ammunition
+
+![[Pasted image 20240505101133.png]]
+
+## Syringes (Special Ammunition
+)
+![[Pasted image 20240505101443.png]]
+
+## Pistols
+![[Pasted image 20240505101512.png]]
+![[Pasted image 20240505101526.png]]
+![[Pasted image 20240505101538.png]]
+
+## Sub-Machine Guns
+
+![[Pasted image 20240505101558.png]]
+
+## Rifles
+
+![[Pasted image 20240505101631.png]]
+![[Pasted image 20240505101642.png]]
+![[Pasted image 20240505101652.png]]
+
+## Shotguns
+![[Pasted image 20240505101711.png]]
+
+## Big Guns
+
+![[Pasted image 20240505101731.png]]
+
+## Energy Weapons
+
+![[Pasted image 20240505101748.png]]
+![[Pasted image 20240505101810.png]]
+![[Pasted image 20240505101831.png]]
+![[Pasted image 20240505101840.png]]
+
+## Ranged Weapons Mods
+
+![[Pasted image 20240505101857.png]]
+![[Pasted image 20240505101938.png]]
+
+
+## Thrown Explosives
+
+![[Pasted image 20240505101957.png]]
+
+## Placed Explosives
+
+![[Pasted image 20240505102021.png]]
+![[Pasted image 20240505102031.png]]
+
+## Items and Gear
+
+![[Pasted image 20240505102056.png]]
+![[Pasted image 20240505102110.png]]
+![[Pasted image 20240505102120.png]]
+
+## Chems
+![[Pasted image 20240505102315.png]]
+![[Pasted image 20240505102329.png]]
+![[Pasted image 20240505102340.png]]
+
+## Medicine
+
+![[Pasted image 20240505102357.png]]
+![[Pasted image 20240505102408.png]]
+
+## Pre-Made Food
+
+![[Pasted image 20240505102434.png]]
+![[Pasted image 20240505102447.png]]
+![[Pasted image 20240505102501.png]]
+
+## Drinks
+
+There are many types of drinks in the wasteland, most of which are extremely difficult to recreate. Most wastelanders do with finding bottled beverages from before the war. However, it does not mean some of these drinks are impossible to craft, just that the way they are crafted is extremely complicated. If your GM allows it, repairing a distillery could allow you to craft beer and maybe other alcohols. Or you could use various chemicals and find the ancient secret formula to Nuka-Cola to allow you to reproduce the long lost beverage. The details in crafting these drinks are entirely up to you. But for starters, you would need to at least have a Crafting, Survival, and Science skill bonuses of at least +8, access to the various ingredients, and lots of time to brew the drinks.
+
+![[Pasted image 20240505102532.png]]
+![[Pasted image 20240505102547.png]]
+![[Pasted image 20240505102611.png]]
+
 

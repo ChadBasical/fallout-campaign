@@ -1,0 +1,1 @@
+If you consume a food or drink with this property, you gain 1 AP at the start of your turn for the next 4 hours.

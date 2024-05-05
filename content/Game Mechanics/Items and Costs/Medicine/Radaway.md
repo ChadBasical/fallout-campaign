@@ -1,0 +1,1 @@
+You can spend 15 minutes to use this medicinal item on yourself or a creature within 5 feet of you. At the end of the hour, the affected creature removes two levels of radiation but gains one level of thirst

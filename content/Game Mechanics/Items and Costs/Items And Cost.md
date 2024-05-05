@@ -7,3 +7,34 @@ If the item is easy to find, the merchant has a surplus, or the players are tryi
 
 ## Decay Discount
 For every level of [[Decay]] an item has, its price is decreased by 10%. This can be an easy way for more expensive items to be acquired by a wastelander that’s light in the pockets.
+
+## [[Armor]]
+
+## [[Mechanical Melee Weapons]]
+
+## [[Ranged Weapons]]
+
+## [[Ammunition]]
+## [[Explosives]]
+
+## [[Other Equipment]]
+
+## [[Food and Drinks]]
+
+## [[Medicine]]
+## [[Skill Magazines]]
+
+## [[Chems]]
+
+## [[Robot Overclock Programs]]
+
+## [[Unique Items]]
+
+## [[Crafting and Repair]]
+
+## [[Decay]]
+
+## [[Vault-Tec Item Blueprint Table]]
+
+
+

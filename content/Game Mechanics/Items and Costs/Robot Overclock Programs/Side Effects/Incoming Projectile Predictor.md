@@ -1,0 +1,1 @@
+When you take damage to your hit points, the damage is increased by 2.

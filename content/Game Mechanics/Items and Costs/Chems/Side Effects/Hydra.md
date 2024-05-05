@@ -1,0 +1,1 @@
+Your maximum HP is reduced by a number equal to your level.

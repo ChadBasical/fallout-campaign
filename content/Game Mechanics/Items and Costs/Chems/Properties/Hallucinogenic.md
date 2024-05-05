@@ -1,0 +1,1 @@
+If you use a chem with this property, you have advantage on all luck checks and may flip your karma cap

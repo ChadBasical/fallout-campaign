@@ -1,0 +1,1 @@
+If you consume a food with this property, you remove one level of dehydration.

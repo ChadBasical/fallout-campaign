@@ -1,0 +1,1 @@
+Your passive sense decreases by 5

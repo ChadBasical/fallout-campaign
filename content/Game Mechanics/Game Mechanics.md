@@ -9,11 +9,21 @@
 5) [[Perks]]
 ## Items and Cost
 
-[[Melee Weapons]]
-- [[Melee Weapon Special Properties]]
-- [[Melee Weapon Modifications]]
-[[Crafting and Repair]]
-[[Decay]]
+1) [[Armor]]
+2) [[Melee Weapons]]
+3) [[Ranged Weapons]]
+4) [[Ammunition]]
+5) [[Explosives]]
+6) [[Other Equipment]]
+7) [[Food and Drink Tables]]
+8) [[Medicine]]
+9) [[Skill Magazines]]
+10) [[Chems]]
+11) [[Robot Overclock Programs]]
+12) [[Unique Items]]
+13) [[Crafting and Repair]]
+14) [[Decay]]
+15) [[Vault-Tec Item Blueprint Table]]
 ## Movement
 
 1) [[Travel Pace]]

@@ -1,0 +1,1 @@
+If you consume a food or drink with this property, you become poisoned for the next 4 hours if your Endurance score is 5 or lower.

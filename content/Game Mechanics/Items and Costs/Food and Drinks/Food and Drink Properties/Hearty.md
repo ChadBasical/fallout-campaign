@@ -1,0 +1,1 @@
+If you consume a food or drink with this property, your carry load increases by 50 for the next 6 hours.

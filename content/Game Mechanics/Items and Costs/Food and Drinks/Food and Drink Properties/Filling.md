@@ -1,0 +1,1 @@
+If you consume food with this property, you remove another level of hunger.

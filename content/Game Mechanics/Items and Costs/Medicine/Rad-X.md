@@ -1,0 +1,1 @@
+You can consume this small pill with 3 AP. If you do; your radiation DC decreases by 2 for the next 3 hours. You can consume a total of three Rad-X at one time to gain their benefits, if you consume more than three you do not gain any additional benefits.

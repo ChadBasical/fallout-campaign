@@ -1,0 +1,1 @@
+If you use a chem with this property, you have advantage on all Strength and Endurance ability and skill checks. Additionally, you gain temporary hit points equal to your level.
