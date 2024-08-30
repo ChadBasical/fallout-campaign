@@ -1,0 +1,1 @@
+While drunk, you gain the effects of buzzed and drunk. Additionally, your maximum stamina points increase by a number equal to your level and whenever you roll a d20 it is subtracted by 5.

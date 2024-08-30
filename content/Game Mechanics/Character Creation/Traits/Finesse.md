@@ -1,0 +1,3 @@
+Whenever you critically hit with a weapon, the critical hit damage multiplier either increases by 1 or the damage dice increases by 1. However, whenever you make an attack roll the total is reduced by 1. 
+
+Wild Wasteland: Whenever you critically hit with a weapon, the critical hit damage multiplier either increases by 2 or the damage dice increases by 2. However, whenever you make an attack roll the total is reduced by 2.

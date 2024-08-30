@@ -1,0 +1,1 @@
+If you hold a ranged weapon that has this property with one hand, both the short and long range are halved. 

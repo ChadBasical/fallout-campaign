@@ -1,0 +1,1 @@
+You can spend 6 AP to target a dying creature with a weapon that has this property, if you do; the target creature gains 1 hit point

@@ -1,0 +1,1 @@
+When you attack with a weapon that has this property, you add your Energy weapons skill bonus to the d20 roll instead of any other skill bonus. Additionally, when you deal damage from an attack with a weapon that has this property, you add a bonus equal to your Perception ability modifier instead of any other ability modifier.

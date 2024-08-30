@@ -1,0 +1,1 @@
+When you attack with this weapon, you do not hit your target until the start of your next turn. If your target is no longer in range, you miss your attack and deal no damage. 

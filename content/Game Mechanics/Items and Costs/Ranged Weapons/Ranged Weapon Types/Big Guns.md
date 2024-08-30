@@ -1,0 +1,2 @@
+Need something really dead? Rocket Launchers, Miniguns, and the renowned Fat Man are all considered Big Guns. These weapons have immense destructive power which are made for taking down scores of enemies at once. Though, they are a rarity to be found in the wasteland and their ammo is often scarce. However, if you have the capability to wield such a weapon; your enemies stand little chance. 
+![[Pasted image 20240503141245.png]]

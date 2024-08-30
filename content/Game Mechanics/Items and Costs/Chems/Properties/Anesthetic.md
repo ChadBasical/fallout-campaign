@@ -1,0 +1,1 @@
+If you use a chem with this property, your DT increases by 6.

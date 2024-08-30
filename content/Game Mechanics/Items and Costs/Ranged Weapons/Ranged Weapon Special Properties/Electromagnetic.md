@@ -1,0 +1,1 @@
+When a robot, synth, or creature made of inorganic material takes damage from a weapon with this property, the damage is doubled for them. 

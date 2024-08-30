@@ -1,0 +1,1 @@
+If you use a chem with this property, you regain stamina points equal to half your level.

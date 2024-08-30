@@ -1,0 +1,3 @@
+You often hear the whispers of the great beyond, receiving paranormal visions of prophecy. When you finish a rest that lasts at least 8 hours, you may roll a d20 and record the result, this is your Sight roll. With this Sight roll you can replace any attack roll, skill check, or ability check made by you or a creature that you can see. Once you use this Sight roll, you cannot use it again until you rest again for at least 8 hours. However, you start each game with one of your Karma Caps flipped. 
+
+Wild Wasteland: You may make two Sight rolls after you rest for at least 8 hours, but your Karma Caps no longer flips if you ever roll a 1 on a d20.

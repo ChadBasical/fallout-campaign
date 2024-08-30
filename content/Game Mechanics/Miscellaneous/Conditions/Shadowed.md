@@ -1,0 +1,1 @@
+While you are shadowed, you cannot be detected via sight from creatures who do not have night vision. If a creature is aware of your presence and does not have night vision, they can attempt to target you with a blind attack.

@@ -1,0 +1,1 @@
+Your karma cap does not flip back over when you critically fail your attack roll, nor when you are hit by a critical hit.

@@ -1,0 +1,1 @@
+Disadvantage on all Agility ability and skill checks

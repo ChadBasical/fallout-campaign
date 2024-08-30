@@ -1,0 +1,1 @@
+Disadvantage on all Perception ability and skill checks.

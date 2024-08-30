@@ -1,0 +1,3 @@
+The good thing is that everyone around you has more critical failures in combat, the bad thing is - so do you! Whenever any creature in the game makes an attack roll, the chance to automatically miss the attack and for the weapon to gain a level of decay is increased by 1. (Example: If only one player character has taken this perk; then if any creature makes an attack roll and rolls a 1 or 2 on the dice, they automatically miss and their weapon gains a level of decay. However, if your karma cap is flipped you may flip it back over.) 
+
+Wild Wasteland: Whenever any creature in the game makes an attack roll, the chance to automatically miss the attack is increased by 2.

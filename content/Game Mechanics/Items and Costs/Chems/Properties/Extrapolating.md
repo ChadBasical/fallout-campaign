@@ -1,0 +1,1 @@
+If you use a chem with this property, you have advantage on all Intelligence and Perception ability and skill checks. However, you have disadvantage on all Charisma ability and skill checks.

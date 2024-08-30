@@ -1,0 +1,3 @@
+Requirements: Endurance 5
+
+When you start traveling, once per day you can roll a Survival skill check with the DC equal to 12. The DC increases by 2 if the route you are taking moves through difficult terrain, is longer than 3 days of travel, or is in unfamiliar territory. On a successful roll, you and each other creature you are traveling with move faster by 2 miles per hour. Additionally, you have advantage on any encounter rolls

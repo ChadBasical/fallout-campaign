@@ -1,0 +1,1 @@
+Disadvantage on all Strength and Endurance ability and skill checks.

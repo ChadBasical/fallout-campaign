@@ -1,0 +1,4 @@
+
+You're not particularly lucky or unfortunate, but when lightning strikes, it strikes hard! When you critically hit with an attack roll from any weapon, roll a d20. If you roll a 20 on this d20 roll then you automatically hit and roll the extra damage listed in the weapon table, however this damage is quadrupled. If you do not roll a 20, your attack still hits but does not deal any critical hit damage. 
+
+Wild Wasteland: When you critically hit with an attack roll from any weapon, roll a d20. If you roll a 20 on this d20 roll then roll another d20. If you roll a 20 on the third d20 roll then you automatically hit and roll the extra damage listed in the weapon table, however this damage is octupled.

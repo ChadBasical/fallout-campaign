@@ -1,0 +1,3 @@
+"Primum non nocere”, you’ve taken the hippocratic oath and intend to heal others in the wasteland instead of hurting them. Whenever you use a first aid kit, stimpak, perk, or ability to restore hit points to another creature, you restore an additional 1 hit point. Whenever you attack another creature and damage them, the damage is reduced by 1 to a minimum of 1. 
+
+Wild Wasteland: In addition to the traits effects; whenever you spend 6 AP to roll a Medicine check on a dying creature to return them to 1 hit point, the check automatically succeeds. However, if you ever damage another creature from an attack you made against them, and this damage kills them; you lose all abilities from this trait.

@@ -1,0 +1,1 @@
+When you deal damage to a target creature’s hit points with a weapon that has this property, they gain a random arm or leg condition. If you deal enough damage to bring the target creature to 0 hit points, you may choose to sever their head or a limb.

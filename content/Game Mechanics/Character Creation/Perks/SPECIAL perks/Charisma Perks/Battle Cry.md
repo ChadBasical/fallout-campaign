@@ -1,0 +1,3 @@
+Requirements: Charisma 5
+
+You can spend 3 AP on your to encourage your allies, let out a battle cry, or otherwise instigate victory! Each creature of your choice within 20 feet of you gains 2 additional action points to a maximum of 15. Additionally, each chosen creature gains advantage on their first attack roll on their turn. Once you use this ability you cannot use it again until you roll combat sequence again.

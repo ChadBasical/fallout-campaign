@@ -1,0 +1,1 @@
+When your hit points are equal to or lower than half their maximum (rounded down) for the first time on a turn; you automatically gain the effects of a stimpak.

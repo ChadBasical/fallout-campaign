@@ -1,0 +1,2 @@
+
+A heavily encumbered creature moves slowly (3 AP per 5 feet). The creature’s travel pace is halved. Every hour a heavily encumbered creature travels reduces their maximum stamina points by 2 (resets upon sleeping) Every day a heavily encumbered creature travels reduces their carry load capacity by 10 (resets upon traveling a day without being encumbered)

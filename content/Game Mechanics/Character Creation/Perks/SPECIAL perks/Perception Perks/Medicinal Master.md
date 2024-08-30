@@ -1,0 +1,3 @@
+Requirements: Perception 10
+
+When another creature rests for at least an hour, you can use a first aid kit, stimpak, or doctor’s bag to heal them of half of their total hit points. If they rest for at least 4 hours, you you can use a first aid kit, stimpak, or doctor’s bag to heal them of all their hit points Repeat: If you take this perk again, when another creature rests for at least an hour, you can use a first aid kit, stimpak, or doctor’s bag to heal them of all their hit points.

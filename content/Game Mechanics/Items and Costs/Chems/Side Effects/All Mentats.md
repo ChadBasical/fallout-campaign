@@ -1,0 +1,1 @@
+Disadvantage on all Charisma ability and skill checks.

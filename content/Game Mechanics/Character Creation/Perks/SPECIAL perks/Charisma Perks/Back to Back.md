@@ -1,0 +1,3 @@
+Requirements: Charisma 6
+
+Shoulder to shoulder. When you roll combat sequence, choose one ally. When you and that ally are within 5 feet of each other, you and that ally gain the following benefits; Your AC increases by 1, your DT increases by 2, and whenever either you or the chosen ally take damage, either you or that ally can choose to reduce that damage by half. Then, they take the same amount of damage. Repeat: Once a player character has taken this perk, it cannot be taken by any other characters. If you take this perk again, the AC bonus increases by 1, the DT bonus increases by 2, and whenever you or that ally take damage, either you or that ally can choose to reduce that damage to 0. Then, they take the damage instead.

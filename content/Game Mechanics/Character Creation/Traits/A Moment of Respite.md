@@ -1,0 +1,3 @@
+You're a natural when it comes to lifting spirits. Whenever you and any other player characters rest, you play music, sing a song, recount a story, or give an inspiring speech. You and each other player character resting gain temporary stamina points equal to your Charisma score. However, you and each player character's group stealth is reduced by 2 so long as you are within 500 feet of them. 
+
+Wild Wasteland: The amount of temporary stamina points gained is instead double your Charisma score, but your party’s group stealth is reduced by 5 so long as you’re in the party

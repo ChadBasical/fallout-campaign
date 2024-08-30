@@ -1,0 +1,1 @@
+When you spend action points to make an attack roll with a weapon that has this property, you can spend 3 additional AP to add one additional damage dice to the damage. Alternatively, you can spend 6 additional AP to add two additional damage dice. Whenever you charge a weapon, you add your modifier twice to the damage total instead of once. 

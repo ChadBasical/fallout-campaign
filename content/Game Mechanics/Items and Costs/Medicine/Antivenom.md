@@ -1,0 +1,1 @@
+You can consume this bottled medicine with 5 AP. If you do; you become resistant to poison damage dealt to your hit points for the next 6 hours.

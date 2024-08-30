@@ -1,0 +1,1 @@
+A small pill typically found in a tin with up to 5. You can spend 4 AP to consume it. When you do; you become cured of one addiction of your choice. However, you gain one level of dehydration, hunger, and exhaustion.

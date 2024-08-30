@@ -1,0 +1,1 @@
+Reloading a weapon with this property costs 4 AP instead of 6. 

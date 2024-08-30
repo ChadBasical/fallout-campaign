@@ -1,0 +1,1 @@
+If you use a chem with this property, your passive sense increases by 5 and if you critically hit with an attack roll; the damage is increased by 10

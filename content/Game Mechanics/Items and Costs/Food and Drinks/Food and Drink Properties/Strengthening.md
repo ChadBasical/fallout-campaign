@@ -1,0 +1,1 @@
+If you consume a food or drink with this property, whenever you attack another creature and roll damage; the damage is increased by 2.

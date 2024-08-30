@@ -1,0 +1,2 @@
+From assault rifles to trail carbines, Rifles are highly precise and customizable. Useful for their range and precision, but lacking in speed. Most Rifles are large and require some Strength to use properly. 
+![[Pasted image 20240503141118.png]]

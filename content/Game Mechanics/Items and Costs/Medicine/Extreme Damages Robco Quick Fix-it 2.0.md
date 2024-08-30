@@ -1,0 +1,1 @@
+The Extreme Damages RobCo Quick Fix-it 2.0 is a healing stim but for robots in severe cases of major damages! You can spend 4 AP to use this item on yourself or another creature so long as they are next to you. If that creature is a robot or gen-2 synth; they heal a number of hit points equal to double their healing rate.

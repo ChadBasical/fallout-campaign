@@ -1,0 +1,1 @@
+The weapon does not decay if you throw it, and ignores the negative effects of the first 2 levels of decay.

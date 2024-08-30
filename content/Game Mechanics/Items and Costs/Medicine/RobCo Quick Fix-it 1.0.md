@@ -1,0 +1,2 @@
+
+The RobCo Quick Fix-it 1.0 is a healing stim but for robots! You can spend 4 AP to use this item on yourself or another creature so long as they are next to you. If that creature is a robot or gen-2 synth; they heal a number of hit points equal to half their healing rate

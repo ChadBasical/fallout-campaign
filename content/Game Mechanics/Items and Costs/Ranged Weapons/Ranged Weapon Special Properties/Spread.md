@@ -1,0 +1,1 @@
+   When you attack a target in the second range increment of a weapon that has this property, you also target each creature and object within 5 feet of the target. 

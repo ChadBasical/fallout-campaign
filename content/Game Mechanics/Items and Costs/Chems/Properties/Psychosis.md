@@ -1,0 +1,1 @@
+If you use a chem with this property, when you deal damage from an attack roll; the damage is increased by 5. However, you always attack the nearest hostile creature. If there are no creatures that are hostile nearby, you must make an Endurance ability check equal to 15. If you fail, you attack the nearest creature.

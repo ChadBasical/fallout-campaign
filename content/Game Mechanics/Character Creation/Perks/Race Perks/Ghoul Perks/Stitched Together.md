@@ -1,0 +1,3 @@
+Requirements: Ghoul
+
+Your body has seen the worst the wasteland has to offer. If you ever lose any of your limbs, besides your head, you can spend 5 minutes reattaching the limb so long as you have a first aid kit and you still have the limb you lost. Additionally, you can spend 1 minute to heal a number of hit points equal to your healing rate. Once you heal in this way, you cannot do it again until you rest for at least 6 hours.

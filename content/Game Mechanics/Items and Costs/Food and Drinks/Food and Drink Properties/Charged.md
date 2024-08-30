@@ -1,0 +1,1 @@
+If you consume a food or drink with this property, you recycle all of your unspent AP at the beginning of each of your turns for the next hour

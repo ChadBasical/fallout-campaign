@@ -1,0 +1,1 @@
+A grappled creature cannot spend AP to move.

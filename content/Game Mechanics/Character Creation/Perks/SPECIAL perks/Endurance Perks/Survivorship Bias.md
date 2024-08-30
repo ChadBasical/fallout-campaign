@@ -1,0 +1,3 @@
+Requirements: Endurance 5
+
+Your know-how of other creatures and what they can do allows you to have an edge against them. Whenever you can sense another creature, so long as you have rolled combat sequence with the creature type and subtype before; you can spend 3 action points to learn either the hit point, stamina point, action point, AC, or DT total of any of them. Additionally, you can spend 6 action points to learn one of its attacks, or any weaknesses it has (if any). Repeat: You can take this perk up to a maximum of three times. Each time you take this perk you learn an additional statistic, action, or weakness when using your action points.

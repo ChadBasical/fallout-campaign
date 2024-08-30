@@ -1,0 +1,3 @@
+Requirements: Intelligence 4
+
+Whenever you make a targeted attack, you can spend half the amount of additional AP (rounded up). Additionally, you can make a special attack with a ranged weapon on your turn called a Calculated attack. This attack costs 6 action points regardless of the weapon’s action point cost. When you make a Calculated attack, you can target a creature behind cover or otherwise out of sight so long as there is a plane or surface in which your projectile can ricochet off of (up to GM’s discretion). When you roll damage from a Calculated attack, the damage is reduced by 1 for every 10 feet the projectile travels after ricocheting.

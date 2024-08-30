@@ -1,0 +1,3 @@
+Requirements: Intelligence 6
+
+You know how to specially craft your armor to fit you to grant you more flexibility and protection. When you take damage and are reduced to 0 hit points, your Armor only decays 1 level. Additionally; whenever you take damage to your hit points, you can have your armor absorb the blow. The damage is reduced to 0 but your armor decays by 1 level for every 10 damage absorbed.

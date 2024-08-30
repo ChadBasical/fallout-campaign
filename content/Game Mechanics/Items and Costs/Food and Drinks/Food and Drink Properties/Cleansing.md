@@ -1,0 +1,1 @@
+If you consume a food or drink with this property, you cure one addiction.

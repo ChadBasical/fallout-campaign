@@ -1,0 +1,3 @@
+Reading a skill magazine can give you some tips and grant an edge on your skill rolls. Skill magazines are typically found or bought in issues and they take a number of minutes to read equal to 5 minus your Intelligence ability modifier, if this number is reduced to 0 you can read the skill magazine with 6 AP. Once you read an issue of a skill magazine you can no longer gain its benefits. Be sure to keep track of which issues you’ve read after reading them. (Example: ¡La Fantoma! issue #4 read.) After you read five different issues of the same magazine, your associated skill bonus permanently increases by 1. Each magazine typically costs around 50 caps and has a load of 2 (GM’s discretion).
+
+![[Pasted image 20240505093402.png]]

@@ -1,0 +1,1 @@
+This miracle drug comes in an inhaler. You can spend 4 AP to consume it. When you do; you become cured of all addictions. However, you gain three levels of dehydration, hunger, and exhaustion.

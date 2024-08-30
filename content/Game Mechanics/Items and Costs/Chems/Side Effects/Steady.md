@@ -1,0 +1,1 @@
+Any attack you make is decreased by 2

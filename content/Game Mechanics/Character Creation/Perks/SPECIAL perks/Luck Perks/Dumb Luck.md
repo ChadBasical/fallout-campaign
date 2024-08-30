@@ -1,0 +1,3 @@
+Requirements: Luck 8
+
+There is no sense to your life’s aptitude. Your full Luck ability modifier is added to all your skill modifiers instead of half. Additionally, whenever you flip your Karma Cap to gain advantage on an ability or skill check, you can add double your Luck modifier to the total. Repeat: You can take this perk up to a maximum of twice, if you take it again; all your skill modifiers increase by 2. Additionally, whenever you flip your Karma Cap to gain reroll an ability or skill check, you can add double your Luck modifier to the second roll.

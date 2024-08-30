@@ -1,0 +1,3 @@
+Requirements: Ghoul
+
+Finger for a finger. Whenever another creature deals damage to your hit points for the first time on a turn, that creature becomes marked. The next time you attack and hit the marked creature, it is automatically a critical hit. If the hit was already a critical hit, the damage you deal is doubled. Once a creature becomes marked, another creature cannot become marked until you rest.
