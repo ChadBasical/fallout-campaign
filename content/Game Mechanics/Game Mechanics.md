@@ -2,11 +2,13 @@
 
 ## Character Creation
 
-1) [[Races]]
-2) [[Ability Scores and Skills]]
-3) [[Backgrounds]]
-4) [[Traits]]
-5) [[Perks]]
+1) [[_Checklist]]
+2) [[Races]]
+3) [[Ability Scores and Skills]]
+4) [[Backgrounds]]
+5) [[Traits]]
+6) [[Perks]]
+7) [[Leveling Up]]
 ## Items and Cost
 
 1) [[Armor]]
