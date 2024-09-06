@@ -51,18 +51,18 @@ either armor, perks, or abilities. Your armor class can never be lower than 10 u
 
 21) If you have a weapon, calculate the following:
 	 Attack bonus. When you attack with a weapon, your bonus to hit is equal to your skill bonus with the associated weapon. Example: If you roll a d20 to hit with a pistol, you add your Guns skill to the d20 roll.
- ○ Big Guns use the Guns skill.
- ○ Bladed Weapons use the Melee Weapons
- skill.
- ○ Blunt Weapons use the Melee Weapons skill.
- ○ Energy Weapons use the Energy Weapons.
- ○ Explosives use the Explosives skill.
- ○ Mechanical Weapons use the Melee Weapons skill.
- ○ Pistols use the Guns skill.
- ○ Rifles use the Guns skill.
- ○ Shotguns use the Guns skill.
- ○ Submachine Guns use the Guns skill.
- ○ Unarmed uses the Unarmed skill
+	 
+	○ Big Guns use the Guns skill.
+	○Bladed Weapons use the Melee Weapons skill. 
+	○ Blunt Weapons use the Melee Weapons skill.
+	○ Energy Weapons use the Energy Weapons.
+	○ Explosives use the Explosives skill.
+	○ Mechanical Weapons use the Melee Weapons skill.
+	○ Pistols use the Guns skill.
+	○ Rifles use the Guns skill.
+	○ Shotguns use the Guns skill.
+	○ Submachine Guns use the Guns skill.
+	○ Unarmed uses the Unarmed skill
  
 22)  Damage bonus. When you hit a target with an attack, you deal damage equal to the weapon’s damage calculation + your ability modifier with the associated skill used to attack. Example: Spencer’s character ‘Huck’ fires his shotgun at a radroach. Spencer rolls a d20 and adds their Gun bonus to the d20 roll. She rolls a 10 and adds 3 for a total of 13. She beats the AC of the Radroach and rolls damage. The damage is 3d6 plus Huck’s agility modifier, because Guns uses the Agility ability modifier.
  
